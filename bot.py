@@ -24,7 +24,7 @@ from aiogram.client.default import DefaultBotProperties
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "7585558991:AAFGm5o_cPQhij4-TupvOURjKO53fZ6yvys"
+TOKEN = "7585558991:AAG7iKroE1coyxEiw4gGNCKtETVcchipMcE"
 
 MAX_CARDS_PER_USER = 200
 
